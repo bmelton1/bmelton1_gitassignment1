@@ -2,4 +2,4 @@
 
 2. Git enables tracking code by keeping a log of every change made to a file. This will allow a user to look back at all changes made and when they were made in case they need to compare different codes or roll back to a previous version, etc...
 
-
+3. Git enables sharing code by allowing multiple users access to the repository with the files in it. Because of this, all users can use git log to access any changes made, and updates by one user can be seen by every other.
