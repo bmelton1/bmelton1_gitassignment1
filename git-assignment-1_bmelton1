@@ -1,2 +1,5 @@
 1. Git saves code in three stages. First, you make changes to your files, which git sees, but does not care about. Second, you add the changes to the staging area. Third, you commit the changes to the repository which fully saves the changes.
 
+2. Git enables tracking code by keeping a log of every change made to a file. This will allow a user to look back at all changes made and when they were made in case they need to compare different codes or roll back to a previous version, etc...
+
+
